@@ -1,5 +1,10 @@
 {
     "files.associations": {
-        "PRG1.C": "cpp"
+        "PRG1.C": "cpp",
+        "PRG2.C": "cpp",
+        "PRG4.C": "cpp",
+        "PRG5.C": "cpp",
+        "PRG6.C": "cpp",
+        "PRG7.C": "cpp"
     }
 }
