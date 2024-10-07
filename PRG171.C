@@ -1,4 +1,4 @@
-//NRNP: no return with perameter
+//NRWP: no return with perameter
 
 #include<stdio.h>
 void dosum(int a,int b) // function defination

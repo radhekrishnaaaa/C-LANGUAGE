@@ -1,4 +1,4 @@
-//NRNP: with return with perameter
+//WRWP: with return with perameter
 
 #include<stdio.h>
 int dosum(int a,int b) // function defination
